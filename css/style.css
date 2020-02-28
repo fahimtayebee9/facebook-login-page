@@ -53,7 +53,7 @@ form{
     cursor: pointer;
 }
 input[type="button"]:hover{
-    background-color: #4267B2;
+    background-color: #375695;
 }
 .main_container{
     background: linear-gradient(to bottom, #ffffff 0%, #d4d8e8 100%);
